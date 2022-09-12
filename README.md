@@ -6,7 +6,6 @@
 
 
 - 🔭 I’m currently working on Data Analytics projects. 
-- 🌱 I’m currently learning Power BI
 - 👯 I’m looking to collaborate on Power BI
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about Data Analytics. 
